@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Stick1.png" align="right">
+<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Stick1.png" align="right", height="80%">
 
 ### Welcome
 
@@ -12,5 +12,5 @@ A few facts about me:
 - 🔮 **Research:** People in Complex Workplaces
 - 🍺 **Beer lover**
 - 🛫 **Transportation enthusiast**
-- 🖖 **Trekie**
+- 🖖 **Trekkie**
 - 👧 **Dad**
