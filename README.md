@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Stick1.png" align="right" width="10vw">
+<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Stick1.png" align="right" width="30vw">
 
 ### Welcome
 
