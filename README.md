@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Stick1.png" align="right" width="90vw">
+<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Molen.png" align="right" width="180vw">
 
 ### Welcome
 
@@ -13,4 +13,3 @@ A few facts about me:
 - 👧 **Dad**
 - 🧛‍♂️ **Dracula User**
 
-<img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Molen.png" width="200vw">
