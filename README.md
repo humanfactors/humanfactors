@@ -1,10 +1,6 @@
 
 ### Welcome
 
-<p align="left">
-<a href="https://twitter.com/humanfactorsio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humanfactorsio" height="20" width="30" /></a>
-</p>
-
 You can read more about my research, publications and me at http://humanfactors.io/.
 <img src="https://raw.githubusercontent.com/humanfactors/humanfactors/master/Molen.png" align="right" width="180vw">
 
