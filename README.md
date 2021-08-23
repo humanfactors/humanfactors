@@ -21,10 +21,6 @@ I’m a Research Fellow at the Future of Work Institute, Curtin University. My r
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" />
-    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
@@ -32,24 +28,9 @@ I’m a Research Fellow at the Future of Work Institute, Curtin University. My r
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
             width="40" height="40" />
     </a>
-    <a href="https://www.haskell.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40"
-            height="40" />
-    </a>
-    <a href="https://gohugo.io/" target="_blank">
-        <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" />
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
